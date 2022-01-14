@@ -42,4 +42,4 @@
 
 Download the [BU-IT-Support.zip](BU-IT-Support.zip), extract and open the Word Document (Macros will have to be enabled).
 
-Steps on how to run individual components seperately are noted in the respective Readme files.
+Steps on how to run individual components seperately are noted in the respective Readme files. 
